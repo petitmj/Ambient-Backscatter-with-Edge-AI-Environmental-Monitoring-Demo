@@ -40,8 +40,7 @@ The entire AmBC pipeline—from ambient RF source generation to AI inference—i
 To run this simulation:
 
 1.  **Open in Google Colab:** The easiest way to interact with this notebook is directly in Google Colab.
-    [](https://www.google.com/search?q=https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Ambient_Backscatter_with_Edge_AI_Environmental_Monitoring_Demo.ipynb)
-    *(Replace `YOUR_GITHUB_USERNAME` and `YOUR_REPO_NAME` with your actual GitHub details if you fork/host this project.)*
+    [](https://www.google.com/search?q=https://colab.research.google.com/petitmj/Ambient-Backscatter-with-Edge-AI-Environmental-Monitoring-Demo/blob/main/Ambient_Backscatter_with_Edge_AI_Environmental_Monitoring_Demo.ipynb)
 2.  **Run All Cells:** Once opened, simply go to `Runtime` -\> `Run all` to execute the entire simulation pipeline.
 3.  **Explore Outputs:** The notebook will display various plots visualizing the signals at different stages (ambient RF, backscattered, received, demodulated) and the training/inference results of the Edge AI models. TensorFlow Lite models (`.tflite`) will be generated and saved in a `simulation_output` directory within your Colab session.
 
